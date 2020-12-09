@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.2e1322cf.chunk.css",
+    "main.js": "/my-app/static/js/main.066625ca.chunk.js",
+    "main.js.map": "/my-app/static/js/main.066625ca.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.75cf27e0.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.75cf27e0.js.map",
+    "static/css/2.242f24fe.chunk.css": "/my-app/static/css/2.242f24fe.chunk.css",
+    "static/js/2.98f05bcf.chunk.js": "/my-app/static/js/2.98f05bcf.chunk.js",
+    "static/js/2.98f05bcf.chunk.js.map": "/my-app/static/js/2.98f05bcf.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.f30f8b6f7e3b9f7d05f3d82505b50e14.js": "/my-app/precache-manifest.f30f8b6f7e3b9f7d05f3d82505b50e14.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/my-app/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.2e1322cf.chunk.css.map": "/my-app/static/css/main.2e1322cf.chunk.css.map",
+    "static/js/2.98f05bcf.chunk.js.LICENSE": "/my-app/static/js/2.98f05bcf.chunk.js.LICENSE",
+    "static/media/1x1.png": "/my-app/static/media/1x1.2d25f5ef.png",
+    "static/media/accessfort.png": "/my-app/static/media/accessfort.6f2dbe6e.png",
+    "static/media/airfort.png": "/my-app/static/media/airfort.a965b391.png",
+    "static/media/bluefort.png": "/my-app/static/media/bluefort.5614c630.png",
+    "static/media/dark-star.png": "/my-app/static/media/dark-star.73381133.png",
+    "static/media/diagfort.png": "/my-app/static/media/diagfort.cfbd416c.png",
+    "static/media/font-awesome.css": "/my-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/iojobsfort.png": "/my-app/static/media/iojobsfort.b4a4d324.png",
+    "static/media/ionicons.css": "/my-app/static/media/ionicons.c037dbbc.svg",
+    "static/media/male.png": "/my-app/static/media/male.a82ab1cd.png",
+    "static/media/myImage.png": "/my-app/static/media/myImage.bd80794f.png",
+    "static/media/plastfort.png": "/my-app/static/media/plastfort.1e6c40c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75cf27e0.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.98f05bcf.chunk.js",
+    "static/css/main.2e1322cf.chunk.css",
+    "static/js/main.066625ca.chunk.js"
+  ]
+}
